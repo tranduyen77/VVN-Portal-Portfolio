@@ -3,7 +3,7 @@
 **Dự án chuyển đổi số nhà máy Van Vina | 2025–2026**  
 **Phiên bản Portfolio:** 1.0 · **Cập nhật:** 15/11/2026, 13:08 (GMT+7)
 
-![Sơ đồ tổng quan VVN Portal](assets/vvn-portal-overview.svg)
+![Sơ đồ tổng quan VVN Portal](vvn-portal-overview-4.svg)
 
 > **Từ dữ liệu rời rạc đến một hệ thống vận hành thống nhất:** VVN Portal được xây dựng để hỗ trợ quản lý và theo dõi các hoạt động sản xuất cơ khí tại Van Vina, đồng thời tạo nền tảng cho kết nối thiết bị IoT và ứng dụng AI trong tương lai.
 
